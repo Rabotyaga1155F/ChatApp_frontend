@@ -28,7 +28,7 @@ This is the frontend of an online chat application that communicates with a back
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rabotyaga1155F/chatapp_frontend.git
+git clone https://github.com/Rabotyaga1155F/ChatApp_frontend.git
 cd ChatApp-frontend
 ```
 
